@@ -1,5 +1,5 @@
 # compuational_physics_N2014301020012
-_[  ]_ Exercise_01:  
+_ [x] _ Exercise_01:  
 _{ } Exercise_02:  
 -{ } Exercise_03:  
 -[ ] Exercise_04:  
