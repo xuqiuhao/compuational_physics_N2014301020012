@@ -1,6 +1,6 @@
 # compuational_physics_N2014301020012
-- [ ] Exercise_01：   
-- [ ] Exercise_02:  
+- [x] Exercise_01：   
+- [x] Exercise_02:https://github.com/xuqiuhao/compuational_physics_N2014301020012/blob/master/1.py  
 - [ ] Exercise_03:  
 - [ ] Exercise_04:  
 - [ ] Exercise_05:  
