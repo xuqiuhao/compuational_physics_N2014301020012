@@ -2,7 +2,8 @@
 - [x] Exercise_01：   
 - [x] Exercise_02:https://github.com/xuqiuhao/compuational_physics_N2014301020012/blob/master/1.py 
 - [x] Exercise_03:https://github.com/xuqiuhao/compuational_physics_N2014301020012/blob/master/3.2.py
-
+                  https://github.com/xuqiuhao/compuational_physics_N2014301020012/blob/master/3.2gif.gif
+      
 - [ ] Exercise_04:  
 - [ ] Exercise_05:  
 - [ ] Exercise_06:  
