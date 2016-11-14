@@ -6,7 +6,7 @@
 - [x] Exercise_05:https://github.com/xuqiuhao/compuational_physics_N2014301020012/tree/master/exercise5  
 - [x] Exercise_06:https://www.zybuluo.com/xuqiuhao/note/534536  
 - [x] Exercise_07:https://www.zybuluo.com/xuqiuhao/note/556908  
-- [ ] Exercise_08:  
+- [x] Exercise_08:https://www.zybuluo.com/xuqiuhao/note/566831  
 - [ ] Exercise_09:  
 - [ ] Exercise_10:  
 - [ ] Exercise_11:  
