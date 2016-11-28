@@ -8,7 +8,7 @@
 - [x] Exercise_07:https://www.zybuluo.com/xuqiuhao/note/556908  
 - [x] Exercise_08:https://www.zybuluo.com/xuqiuhao/note/566831  
 - [x] Exercise_09:https://www.zybuluo.com/xuqiuhao/note/574289  
-- [ ] Exercise_10:  
+- [x] Exercise_10:http://www.jianshu.com/p/1bbac052bd0f  
 - [ ] Exercise_11:  
 - [ ] Exercise_12:  
 - [ ] Exercise_13:  
