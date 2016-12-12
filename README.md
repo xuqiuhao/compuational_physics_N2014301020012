@@ -10,7 +10,7 @@
 - [x] Exercise_09:https://www.zybuluo.com/xuqiuhao/note/574289  
 - [x] Exercise_10:http://www.jianshu.com/p/1bbac052bd0f  
 - [x] Exercise_11:http://www.jianshu.com/p/1d0cf969fafc  
-- [ ] Exercise_12:  
+- [x] Exercise_12:http://www.jianshu.com/p/57a85b53eab0  
 - [ ] Exercise_13:  
 - [ ] Exercise_14:  
 - [ ] Exercise_15:  
